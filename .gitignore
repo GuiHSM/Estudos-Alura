@@ -417,19 +417,19 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=react
 
 ### react ###
-D:\Tudo\GitHub\Estudos-Alura\React\alura-studies\.DS_*
-D:\Tudo\GitHub\Estudos-Alura\React\alura-studies\*.log
-D:\Tudo\GitHub\Estudos-Alura\React\alura-studies\logs
-D:\Tudo\GitHub\Estudos-Alura\React\alura-studies\**/*.backup.*
-D:\Tudo\GitHub\Estudos-Alura\React\alura-studies\**/*.back.*
+React\alura-studies\.DS_*
+React\alura-studies\*.log
+React\alura-studies\logs
+React\alura-studies\**/*.backup.*
+React\alura-studies\**/*.back.*
 
-D:\Tudo\GitHub\Estudos-Alura\React\alura-studiesnode_modules
-D:\Tudo\GitHub\Estudos-Alura\React\alura-studiesbower_components
+React\alura-studies\node_modules
+React\alura-studies\bower_components
 
-D:\Tudo\GitHub\Estudos-Alura\React\alura-studies\*.sublime*
+React\alura-studies\*.sublime*
 
-D:\Tudo\GitHub\Estudos-Alura\React\alura-studiespsd
-D:\Tudo\GitHub\Estudos-Alura\React\alura-studiesthumb
-D:\Tudo\GitHub\Estudos-Alura\React\alura-studiessketch
+React\alura-studies\psd
+React\alura-studies\thumb
+React\alura-studies\sketch
 
 # End of https://www.toptal.com/developers/gitignore/api/react
