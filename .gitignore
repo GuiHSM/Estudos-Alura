@@ -413,23 +413,4 @@
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio,dotnetcore
 
-# Created by https://www.toptal.com/developers/gitignore/api/react
-# Edit at https://www.toptal.com/developers/gitignore?templates=react
-
-### react ###
-React\alura-studies\.DS_*
-React\alura-studies\*.log
-React\alura-studies\logs
-React\alura-studies\**/*.backup.*
-React\alura-studies\**/*.back.*
-
-React\alura-studies\node_modules
-React\alura-studies\bower_components
-
-React\alura-studies\*.sublime*
-
-React\alura-studies\psd
-React\alura-studies\thumb
-React\alura-studies\sketch
-
-# End of https://www.toptal.com/developers/gitignore/api/react
+\React\Curso 1\node_modules
